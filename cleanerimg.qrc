@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Fire.png</file>
+        <file>folder.png</file>
+        <file>folder_start.png</file>
+        <file>exit.png</file>
+        <file>base.png</file>
+    </qresource>
+</RCC>
